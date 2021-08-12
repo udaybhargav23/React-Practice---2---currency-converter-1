@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://api.exchangeratesapi.io/v1/latest?access_key=078d9e5e57022ff888b806d78c4b5381&format=1"
+  from = "http://api.exchangeratesapi.io/v1/latest?access_key=078d9e5e57022ff888b806d78c4b5381&format=1"
   to = "http://api.exchangeratesapi.io/v1/latest?access_key=078d9e5e57022ff888b806d78c4b5381&format=1"
   status = 200
   force = true
